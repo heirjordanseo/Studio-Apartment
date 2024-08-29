@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+h1 {
+    color: #151616;
+}
+
+h3 {
+color:#151616;
+}
+
+hr {
+    border-style: ;
+    border-top-style: none;
+    border-color: rgb(131, 124, 124);
+    border-width: 1px;
+    width: 100%;
+}
+
+img {
+    height: 300px;
+}
